@@ -21,7 +21,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url('https://res.cloudinary.com/do4qwwms8/image/upload/v1626263091/Money%20Manager/money-manager-header_rxlcrn.png');
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
   background-size: cover;
   height: 172px;
   border-radius: 16px;
@@ -226,3 +226,4 @@
     font-size: 16px;
   }
 }
+
