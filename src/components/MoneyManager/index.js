@@ -124,7 +124,7 @@ class MoneyManager extends Component {
       <div className="app-container">
         <div className="responsive-container">
           <div className="header-container">
-            <h1 className="heading">Hi, Bhanu</h1>
+            <h1 className="heading">Hello there!</h1>
             <p className="header-content">
               Welcome back to your
               <span className="money-manager-text"> Money Manager</span>
@@ -204,5 +204,6 @@ class MoneyManager extends Component {
     )
   }
 }
+
 
 export default MoneyManager
